@@ -1,4 +1,4 @@
-# 個人情報につながる部分は、xxxxで表示してあります。
+# 個人情報保護のため、一部をxxxxで表示してあります。
 import pandas as pd
 import openpyxl
 import xlwings as xw
